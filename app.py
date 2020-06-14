@@ -27,6 +27,4 @@ def home():
 	return render_template('main.html')
 
 if __name__ == '__main__':
-	clf = joblib.load('newsy_model.pkl')
-	vec = joblib.load('newsy_vec.pkl')
 	app.run(host='0.0.0.0')
