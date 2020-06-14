@@ -26,7 +26,7 @@ class Scraper():
 							 entertainment.}
 				 sub_category :- takes in string, which denotes
 				 				sub category of the category. e.g.,
-				 				mobile is sub category for category.
+				 				mobile is sub category for category technology.
 		rtype : None
 		'''
 
